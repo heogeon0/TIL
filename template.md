@@ -1,7 +1,7 @@
 # TIL - YYYY.MM.DD
 
 ## 키워드
-JavaScript, React, CSS
+#JavaScript #React #CSS
 
 ## 오늘 배운 내용
 
